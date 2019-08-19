@@ -2,5 +2,4 @@
 
 #include<myself>
 
-i love to code sometimes, but most of the time
-it's boring to type.
+i love machine learning, because i love maths or vice versa.
